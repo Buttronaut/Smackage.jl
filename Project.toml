@@ -1,0 +1,4 @@
+name = "Smackage"
+uuid = "2c4231ba-ca6f-44db-a622-ee351f51af29"
+authors = ["Buttronaut <nobody@nowhere.org>"]
+version = "0.1.0"
